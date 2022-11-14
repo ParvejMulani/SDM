@@ -5,7 +5,6 @@ var app=express();  // will create app object from express package
 var onDefault=function(req, res){
     res.send("<h1>Parvej Mulani Infra Pvt. Ltd</h1>"+
               "<hr/>"+
-              <img src="image.jpg" width "250" length "100">
               "<ol>"+
                     " <li>Mentoring for skill building</li>"+
                     " <li>Workshops</li>"+
